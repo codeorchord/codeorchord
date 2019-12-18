@@ -116,6 +116,52 @@ section.resume-section .resume-item .resume-date {
 }
 
 
+.introduce {
+ /* background-color: #7395AE; */
+ /* color: white; */
+ /* padding: 30px 50px 30px; */
+}
+
+.introduce blockquote.heading {
+    font-size: 1.25em;
+    font-weight: 500;
+}
+
+.introduce .lead {
+    font-size: 1.0em;
+}
+
+.kr {
+    /* font-family: 'Gothic A1', sans-serif; */
+}
+
+.txt-c {
+    text-align: center;
+}
+
+.legend {
+    padding: 0px 60px;
+}
+
+.auto-height {
+    height: auto !important;
+    min-height: unset !important;
+}
+
+.subsub {
+    font-size: 1em;
+    font-weight: 600;
+}
+
+.resume-section h2 {
+    display: inline-block;
+}
+.inline {
+    display: inline-block;
+}
+#skills small {
+    font-size: 0.5em;
+}
 
 @media (min-width: 992px) {
     body {
