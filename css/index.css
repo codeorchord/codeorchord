@@ -13,9 +13,33 @@ body {
 .bg-primary {
     background-color: #00316E !important;
 }
-  
-  .text-primary {
+
+.sub-profile-pic {
+    display: inline-block;
+    width: 7em;
+    vertical-align: bottom;
+}
+
+.text-name {
+    display: inline-block;
+    font-size: 5rem;
+}
+
+.text-primary {
     color: #00316E !important;
+}
+
+.fname { 
+    font-size: 5rem;
+}
+
+.text-name small {
+    font-size: 50%;
+}
+
+.my-strong {
+    color: #868e96;
+    font-weight: 600;
 }
   
 a {
@@ -156,11 +180,23 @@ section.resume-section .resume-item .resume-date {
 .resume-section h2 {
     display: inline-block;
 }
+
 .inline {
     display: inline-block;
 }
 #skills small {
     font-size: 0.5em;
+}
+
+.skills img {
+    height: 0.9em;
+    vertical-align: top;
+}
+
+.skills img:hover {
+    /* border: 2px solid lightgray; */
+    /* border-radius: 10px; */
+    background-color: lightgray;
 }
 
 @media (min-width: 992px) {
