@@ -173,7 +173,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .subsub {
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: 600;
 }
 
@@ -197,6 +197,14 @@ section.resume-section .resume-item .resume-date {
     /* border: 2px solid lightgray; */
     /* border-radius: 10px; */
     background-color: lightgray;
+}
+
+.gray {
+    color: gray;
+}
+
+.lightgray {
+    color: lightgray;
 }
 
 @media (min-width: 992px) {
