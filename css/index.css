@@ -199,6 +199,14 @@ section.resume-section .resume-item .resume-date {
     background-color: lightgray;
 }
 
+.awards img {
+    width: 5em;
+}
+
+
+.fa-trophy, .fa-certificate {
+    font-size: 1.4em;
+}
 .gray {
     color: gray;
 }
