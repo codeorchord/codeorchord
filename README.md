@@ -4,7 +4,7 @@ This resume  is made by using the 'A resume and CV theme for [Bootstrap](http://
 
 
 
-[![Resume Preview](https://startbootstrap.com/assets/img/screenshots/themes/resume.png)](https://blackrockdigital.github.io/startbootstrap-resume/)
+[![Resume Preview](assets/image-20191222222414813.png)](https://codeorchord.github.io/)
 
 **[View Live Page](https://codeorchord.github.io/)**
 
