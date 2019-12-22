@@ -219,6 +219,10 @@ section.resume-section .resume-item .resume-date {
     font-size: 2.7em;
 }
 
+.h3-kr {
+    font-size: 1.8em;
+}
+
 @media (min-width: 992px) {
     body {
         padding-top: 0;
