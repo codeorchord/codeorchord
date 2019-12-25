@@ -223,6 +223,10 @@ section.resume-section .resume-item .resume-date {
     font-size: 1.8em;
 }
 
+.orange {
+    color: orange;
+}
+
 @media (min-width: 992px) {
     body {
         padding-top: 0;
