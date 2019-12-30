@@ -204,6 +204,8 @@ section.resume-section .resume-item .resume-date {
 }
 
 
+
+
 .fa-trophy, .fa-certificate {
     font-size: 1.4em;
 }
@@ -298,6 +300,13 @@ section.resume-section .resume-item .resume-date {
     }
     section.resume-section .resume-item .resume-date {
         min-width: 18rem;
+    }
+    section.awards .resume-content {
+        min-width: 29rem;
+        max-width: 35rem;
+    }
+    section.awards .resume-date {
+        min-width: 9rem !important;
     }
 }
 
