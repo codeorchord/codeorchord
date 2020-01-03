@@ -34,7 +34,7 @@ AmCharts.makeChart("chartdiv",
     "theme": "patterns",
     "graphs": [
         {
-            "balloonText": "[[value]] litres of beer per year",
+            "balloonText": "[[value]] percentage point",
             "bullet": "round",
             "bulletSize": 9,
             "id": "AmGraph-1",
