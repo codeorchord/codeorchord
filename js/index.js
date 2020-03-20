@@ -64,8 +64,8 @@ AmCharts.makeChart("chartdiv",
             "ability": "문제 해결 능력"
         },
         {
-            "value": "40",
-            "ability": "쉽고 반복적인 업무에 대한 처리 속도"
+            "value": "50",
+            "ability": "쉽고 단순한 업무에 대한 처리 속도"
         },
         {
             "value": "90",
@@ -80,8 +80,8 @@ AmCharts.makeChart("chartdiv",
             "ability": "의사소통"
         },
         {
-            "value": "95",
-            "ability": "아이디어가 필요한 업무 처리 능력"
+            "value": "50",
+            "ability": "관리 능력(팀 매니징 등)"
         },
         {
             "value": "60",
